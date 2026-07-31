@@ -59,7 +59,7 @@ h4
 .btn-alt:hover{
   color: white;
   background-color: var(--color-secundario);
-  border: 1px solid white;
+/*  border: 1px solid white; */
 }
 
 .btn-alt3{
