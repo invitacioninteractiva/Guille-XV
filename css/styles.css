@@ -594,7 +594,7 @@ section.cbu p{
 #hidden-cbu{
   padding: 25px;
   border-radius: 0px;
-  border: solid, var(--color-primario),2px;
+  border: solid, var(--color-secundario),2px;
 }
 
 
